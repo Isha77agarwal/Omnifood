@@ -1,2 +1,2 @@
 # Omnifood
-My First website project
+My First web Designing project
